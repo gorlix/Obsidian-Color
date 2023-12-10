@@ -1,2 +1,2 @@
-# Obsidian-Color
-Notion Like word color fo Obsidian.md
+# Notion Like word colour
+
