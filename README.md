@@ -14,3 +14,4 @@
 3. Ricordati di attivare le estensioni all'interno dei Comunity Plugin
 4. Nelle impostazioni di Text Snippets crea la shortcut per l'inserimento rapido (es:`p : <span class="color-pink">$tb$</span>$tb$ $end$`)
   Utilizza `$tb$` per spostare il cursore al'interno del blocco html e succesivamente fuori, poi `$end$` per terminare la riga dello snippets
+5. Modifica la Hotkeys per invocare il Rimpiazzamento di Text Snippets con la combizaione desiderata (es: `CTRL+SPACE`)
