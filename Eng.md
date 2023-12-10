@@ -13,4 +13,5 @@
 2. add the file `CSS` in the folder `snippets`
 3. remember to enable all the extensions in the Comunity Plugin
 4. create the shortcut in the settings of text Snippets (eg.: `p : <span class="color-pink">$tb$</span>$tb$ $end$`)
-   use `$tb$` to move the cursor in the html block and then outside, after that `$end$` to end the snippet's row 
+   use `$tb$` to move the cursor in the html block and then outside, after that `$end$` to end the snippet's row
+5. edit the hotkey to invoke the `Text Snippets: Run snippets replacement` wirh the desired combination (eg.: CTRL+SPACE)
