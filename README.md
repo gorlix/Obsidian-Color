@@ -1,5 +1,5 @@
 # Notion Like word colour
-🇬🇧[ENGLISH VERSION]()
+🇬🇧[ENGLISH VERSION](https://github.com/gorlix/Obsidian-Color/blob/main/Eng.md)
 
 ![image](https://github.com/gorlix/Obsidian-Color/assets/39005603/5b5101a0-d8b9-4aff-8657-de94744c8d02)
 
